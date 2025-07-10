@@ -62,7 +62,8 @@
       "name": "OpenWeatherMap",
       "credentials": {
         "openWeatherMapApi": {
-          "id": "imJH92jDNR6pIPJa",
+          #login in and get your API key
+          "id": "",
           "name": "OpenWeatherMap account"
         }
       }
@@ -83,11 +84,11 @@
         380,
         180
       ],
-      "id": "ffe036ef-33da-4a66-bca0-a736358f9cf2",
+      "id": "",
       "name": "Google Calendar",
       "credentials": {
         "googleCalendarOAuth2Api": {
-          "id": "La7YjxkRUsQMFrdW",
+          "id": "",
           "name": "Google Calendar account"
         }
       }
@@ -96,7 +97,7 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "1Nl1skEYqCliU5hNIv2msHOIfAWS02RXiNeNx6QUzalg",
+          "value": "",
           "mode": "list",
           "cachedResultName": "trail",
           "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1Nl1skEYqCliU5hNIv2msHOIfAWS02RXiNeNx6QUzalg/edit?usp=drivesdk"
@@ -116,11 +117,11 @@
         660,
         180
       ],
-      "id": "b3b0efb8-e2ea-475d-b293-fce6af5738be",
+      "id": "",
       "name": "Google Sheets",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "zAtUmE6lnH9P48dg",
+          "id": "",
           "name": "Google Sheets account"
         }
       }
@@ -138,12 +139,12 @@
         800,
         180
       ],
-      "id": "6d4acbd0-22b0-40d7-b76d-2af92f5999c1",
+      "id": "",
       "name": "Send to my Gmail",
-      "webhookId": "b2b0cb70-e754-4909-a7a1-b1158942c104",
+      "webhookId": "",
       "credentials": {
         "gmailOAuth2": {
-          "id": "tX5qRcuPT0PktZbP",
+          "id": "",
           "name": "Gmail account"
         }
       }
@@ -159,11 +160,11 @@
         120,
         180
       ],
-      "id": "2ca4b351-bfe3-4208-87d4-d16a76b83c5e",
+      "id": "",
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "gg8pVFW0FrzeJPOx",
+          "id": "",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -180,7 +181,7 @@
       ],
       "id": "294b8c97-7b7f-43c7-b9d2-ab1de2810eba",
       "name": "When chat message received",
-      "webhookId": "08599540-6968-47b9-b7f1-84c8f875d140"
+      "webhookId": ""
     }
   ],
   "pinData": {},
@@ -281,7 +282,7 @@
   "versionId": "2cac6b0e-4570-4c2c-af2c-cd3369615015",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "29d1030fde511986e7c23c03cafd99d3e91448bbd294ebfef47674249696f3c4"
+    "instanceId": ""
   },
   "id": "ACDWh6NLtIDRzzYv",
   "tags": []
